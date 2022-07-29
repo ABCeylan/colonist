@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colonist/static/css/main.a6d4eb14.css",
+    "main.js": "/colonist/static/js/main.9ead9a5f.js",
+    "index.html": "/colonist/index.html",
+    "main.a6d4eb14.css.map": "/colonist/static/css/main.a6d4eb14.css.map",
+    "main.9ead9a5f.js.map": "/colonist/static/js/main.9ead9a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6d4eb14.css",
+    "static/js/main.9ead9a5f.js"
+  ]
+}
